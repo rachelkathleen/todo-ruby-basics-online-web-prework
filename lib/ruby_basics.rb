@@ -15,7 +15,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value
-  returns "Nice"
+  return value = "Nice"
 end
 
 def last_evaluated_value
